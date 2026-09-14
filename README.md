@@ -1,4 +1,3 @@
-# GALAXY-SHOOTER
 Galaxy Shooter
 
 Jogo de nave no espaço, estilo galaxy shooter.
