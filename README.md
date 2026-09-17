@@ -41,6 +41,8 @@ São 300 níveis.
 
 Cada nível tem o seu chefão (nave diferente, nome diferente, tiro e movimento diferentes).
 
+Nenhum chefão se repete. Se o nível tiver 2, 3 ou 4 chefões, cada um é outra nave, com outro nome e outro desenho. Chefão que já apareceu num nível anterior não volta nunca mais.
+
 
 
 O nível só termina quando o chefão é derrotado.
